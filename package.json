@@ -1,0 +1,15 @@
+{
+  "name": "hiepnt-tea",
+  "version": "1.0.0",
+  "description": "yeu to quoc yeu dong bao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hiepnt900514/hiepnt-tea.git"
+  },
+  "author": "hiepnt900514",
+  "license": "MIT"
+}
